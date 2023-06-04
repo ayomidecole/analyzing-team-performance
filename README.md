@@ -1,4 +1,4 @@
-# analyzing-team-performance
+# Analyzing Team Performance
 The codebase used for analysis in the 'Analyzing Team Performance Piece' on the publication On Stories and Data
 
 # Goal(s) of the Analysis:
